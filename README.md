@@ -1,6 +1,6 @@
 # 🤖 PDF RAG Assistant
 
-An interactive, agentic **Retrieval-Augmented Generation (RAG)** application built with **Streamlit**, **LangChain / LangGraph**, **Groq**, and **Google Gemini Embeddings**.
+An interactive,  **Agentic Retrieval-Augmented Generation (Agentic-RAG)** application built with **Streamlit**, **LangChain / LangGraph**, **Groq**, and **Google Gemini Embeddings**.
 
 Upload any PDF document dynamically, and the agent retrieves relevant context using vector similarity search to answer your questions accurately.
 
